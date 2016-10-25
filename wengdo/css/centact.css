@@ -1,0 +1,174 @@
+body,div,ul{
+	background:#fbfbfb;
+	font-family:"黑体";
+	margin:0px;
+	padding:0px;
+	font-size:12px;
+}
+div ul{
+	list-style:none;
+}
+a:link,a:visited{
+	color:#666666;
+	text-decoration:none;
+}
+a:hover,a:active{
+	color:#666;
+	text-decoration:none;
+}
+.none{
+	background-image: none !important;
+}
+.container{
+	width:100%;
+	margin:0 auto;
+}
+.header{
+	width:100%;
+	height:119px;
+}
+.box{
+	top:0px;
+	width:1150px;
+	margin:0 auto;
+}
+.logo{
+	float:left;
+	width:30%;
+}
+.nav{
+	float:right;
+	padding-top:10px;
+}
+.nav p{
+	font-size:14px;
+	text-align:right;
+	line-height:40px;
+	padding-right:20px;
+}
+.nav p a{
+	color:#23b34c;
+}
+.nav ul li a{
+		color:#000;
+}
+.nav ul li{
+	float:left;
+	background:url("../images/nav_bg.gif") no-repeat scroll right center;
+	padding-left:10px;
+	padding-right:20px;
+	font-size:14px;
+}
+.ad{
+	width:1150px;
+	height:180px;
+	margin:0 auto;
+	margin-bottom: 6px;
+}
+.list{
+	width:1150px;
+	line-height:38px;
+	margin:0 auto;
+	font-size:14px;
+}
+.center{
+	width:1150px;
+	margin:0 auto;
+}
+.centent{
+	float:left;
+	width:340px;
+	padding-left:55px;
+}
+.centent{
+	font-size:14px;
+}
+.centent p{
+	color:#333333;
+	line-height:26px;
+}
+.contact{
+	float:left;
+	padding-left:78px;
+
+}
+.contact input{
+	height:32px;
+	width:295px;
+}
+.botton input{
+	color:#000;
+	width:165px;
+	height:42px;
+	background:#ff6d2f;
+}
+.contact h1{
+	margin:0px;
+	padding-top:20px;
+}
+.contact ul li{
+	padding:4px 0px;
+}
+.map{
+	padding-top: 55px;
+	clear:both;
+	width:100%;
+	margin:0 auto;
+	padding-left:55px;
+}
+.map img{
+	margin-top:50px;
+}
+.footer{
+	width:100%;
+	margin:0 auto;
+	float:left;
+	margin-bottom: 10px;
+	margin-top:28px;
+	font-size: 14px;
+}
+.lent{
+    width:1150px;
+    margin: 0px auto;
+    padding-top: 20px;
+    height:39px;
+	border-bottom: 1px solid #E1E1E1;
+    border-top: 1px solid #E1E1E1;
+}
+.lent ul li{
+	list-style: outside none none;
+	float:left;
+}
+.lent ul li a{
+	font-size:14px;
+	padding-left: 7px;
+	padding-right: 10px;
+	background: transparent url("../images/footer_nav.gif") no-repeat scroll right center;
+	color: #F60;
+}
+.footer_new{
+	width: 1150px;
+	margin: 0 auto;
+	padding-bottom: 30px;
+	height:51px;
+}
+.name{
+	float: left;
+	font-size: 12px;
+	padding-top: 6px;
+	margin-right: 10%;
+}
+.beian{
+	float: left;
+    padding-top: 6px;
+}
+.share{
+	float: right;
+    font-size: 12px;
+}
+.share li{
+	float:left;
+}
+.chare{
+	clear: both;
+}

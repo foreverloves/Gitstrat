@@ -1,0 +1,18 @@
+.summary{width:705px;float:left;}
+.summary h1{background:url(../images/tips.gif) repeat-x bottom;border-top:1px solid ;font-family:"宋体";font-size:34px;line-height:50px;}
+.summary span{font-size:20px;line-height:50px;}
+.serve{width:687px;height:133px;padding-left: 18px;margin-top:23px;background:url(../images/tips.gif) repeat-x bottom;}
+.taget{width:121px;float:left;padding-right: 28px;height:132px;}
+.referral{width:538px;height:132px;float:right;}
+.referral h3{font-weight:normal;color:#3e3d3d;font-size:16px;line-height:100%;margin-bottom:10px;}
+.referral p{color:#7C7C7C;font-size:12px;line-height:20px;}
+.incude{width:700px;height:312px;padding:0px 2px;margin-top:50px;} 
+.skills{width:720px;height:312px;}
+.show{width:223px;height:312px;float:left;margin-right:16px;}
+.img{width:223px;height:115px;}
+.intor{width:223px;height:127px;background:url(../images/tips.gif) repeat-x bottom;}
+.intor h4{background:url(../images/tips.gif) repeat-x bottom;font-size:12px;padding-bottom:9px;margin:18px 0px 10px 0px;}
+.intor p{font-size:12px;color:#797979;line-height:26px;}
+.show span{float:right;font-size:12px;}
+.page{width:156px;height:22px;float:right;margin-top:22px;margin-bottom:85px;}
+.page ul li{float:left;padding-right:3px;}

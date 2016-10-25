@@ -1,0 +1,384 @@
+body,div{
+	font-family:"黑体";
+	margin:0;
+	padding:0;
+	font-size:12px;
+}
+ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+.clear{
+	clear:both;
+}
+a:link,a:visited{
+	color:#999;
+	text-decoration:none;
+}
+a:hover,a:active{
+	color:#666;
+	text-decoration:none;
+}
+.lfloat{
+	float:left;
+}
+.rfloat{
+	float:right;
+}
+.cfloat{
+	clear:both;
+}
+#container{
+	background:#fff;
+	width:1440px;
+	margin:0 auto;
+}
+.header{
+	background-color: #FBFBFB;
+	width:1440px;
+	height:122px;
+	margin:0 auto;
+}
+.engert{
+	top:0px;
+	width:1150px;
+	margin:0 auto;
+}
+.logo{
+	float:left;
+	width:30%;
+}
+.navas{
+	float:right;
+	padding-top:10px;
+}
+.navas p{
+	font-size:14px;
+	text-align:right;
+	line-height:40px;
+	padding-right:20px;
+}
+.navas p a{
+	color:#23b34c;
+}
+
+.navas ul li a{
+	display: block;
+		color:#000;
+		height:30px;
+}
+.navas ul li{
+	float:left;
+	background:url("../images/nav_bg.gif") no-repeat scroll right 10px center;
+	padding-left:10px;
+	padding-right:20px;
+	font-size:14px;
+	padding-top: 10px;
+}
+.navas a:hover,.navas a:active{
+
+	font-weight:600;
+	text-decoration:none;
+}
+.right{
+	padding-top: 10px;
+	float: right;
+	width: 96px;
+}
+
+
+#summary{margin: 0 auto;width:1440px;height:439px;position:relative;}
+#summary img{width:1440px;height:439px;}
+#nav_img li{display: none;}
+#nav_img .show{display: block;}
+#nav{width:150px;margin:0 auto;height:30px;padding-top: 10px;position: absolute;right:615px;bottom: 10px;z-index:2;}
+#nav li{float: left;width:15px;height: 4px;margin:0 2px;line-height: 20px;text-align: center;background: #e6f2fa;}
+#nav .nav_check{background:#999;}
+
+.banner img{
+	width:100%;
+	position: relative;
+}
+.main{
+	margin:0 auto;
+	width:80%;
+	height:695px;
+	padding-top:26px;
+	font-size:12px;
+}
+.service{
+	float:left;
+	width:60%;
+}
+.tabbtn{
+	width:100%;
+	margin:0 auto;
+	height:128px;
+}
+.tabbtn ul li{
+	list-style:none;
+	margin-left:12px;
+	float:left;
+	width:14.2%;
+	height:100%;
+}
+.tabbtn ul li a{
+	display: block;
+	float: left;
+	overflow: hidden;
+	text-align: center;
+	font-size: 12px;
+	cursor: pointer;
+	padding-top: 100%;
+		}
+.img_01{
+	background:url(../images/nav_img_g0.gif) no-repeat scroll center top;
+		}			
+.img_02{
+	background:url(../images/nav_img_b1.gif) no-repeat scroll center top;
+		}			
+.img_03{
+	background:url(../images/nav_img_b2.gif) no-repeat scroll center top;
+		}			
+.img_04{
+	background:url(../images/nav_img_b3.gif) no-repeat scroll center top;
+		}			
+.img_05{
+	background:url(../images/nav_img_g4.gif) no-repeat scroll center top;
+		}			
+.img_06{
+	background:url(../images/nav_img_b5.gif) no-repeat scroll center top;
+}
+.sublist{
+	margin:10px;
+	float:left;
+	width:100%;
+	height:145px;
+	overflow:hidden;
+	line-height:24px;
+}
+.sublist h2{
+	font-size:12px;
+}
+.newss{
+	width:35%;
+	float:right;
+}
+.rfloat{
+	width:35%;
+	margin-top:16px;
+}
+
+.rfloat ul li{
+	background: url("../images/new_bg.gif") no-repeat scroll 8px 10px transparent;
+	padding-left:17px;
+	list-style:none;
+	position:relative;
+	font-size:12px;
+	line-height:22px;
+	}
+.title_left{
+	 border-color: #DDDDDD;
+    border-style: solid solid none;
+    border-width: 1px 1px medium;
+    
+    height:25px;
+    float: left;
+    font-size: 14px;
+    padding: 3px 30px;
+}
+.title_right{
+	 background: url("../images/more.gif") no-repeat scroll right 10px transparent;
+    border-bottom: 1px solid #DDDDDD;
+    width:285px;
+    height:25px;
+    float: right;
+    line-height:10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    text-align: right;
+}
+.rfloat ul li span{
+	float:right;
+}
+.cases{
+	padding:20px 0px;
+	margin:0 auto;
+	background
+	width:100%;
+	text-align: center;
+}
+.more{
+	float: right;
+	font-size: 12px;
+	padding: 16px 10px 0px 0px;
+	background: transparent url("../images/more.gif") no-repeat scroll right 21px ;
+	vertical-align: bottom;
+}
+.case_bg img{
+	width:100%;
+	margin:0 auto;
+}
+.gallever{
+	width:1152px;
+	height:249px;
+	margin:0 auto;
+	position:relative;
+}
+ .pssss img{margin-right:30px;}
+.prev{
+	position: absolute;
+	left: -40px;
+	top:0px;
+	z-index: 2;
+}
+.next{
+	  position: absolute;
+    right: -40px;
+    top:0px;
+   z-index:2;
+}
+.box{
+	overflow: hidden;
+	position: relative;
+	width:1200px;
+}
+.box img{
+	width:360px;
+	height:249px;
+}
+.box ul li{
+	float:left;
+}
+.qq{
+	padding:0px 30px;
+}
+.about{
+	background:#ebeef2;
+	height:345px;
+	margin:0 auto;
+}
+.company{
+	width:91%;
+	margin:0 auto;
+}
+.company ul li{
+	width:420px;
+	float: left;
+	padding-right: 3%;
+	padding-bottom: 2%;
+	text-align: center;
+}
+.company ul li h3{
+	text-align: left;
+	font-size: 18px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin:0px;
+}
+.company ul li p{
+	font-size:12px;
+	line-height: 24px;
+	text-align: left;
+	line-height:2em;
+}
+.first{
+	 padding-bottom: 2%;
+    padding-right: 3%;
+	float:left;
+	padding-left: 7%;
+	width: 22%;
+}
+.first p{
+	line-height:2em;
+}
+.server{
+	width:33%;
+}
+.text{
+	width: 82%;
+	font-size: 14px;
+	color: #F60;
+	padding: 5% 8% 0px;
+}
+.info{
+	float: left;
+	color: #F60;
+	width: 30%;
+}
+.concent{
+	float: left;
+	width: 66%;
+	text-align: left;
+	padding-left: 4%;
+}
+.us{
+	width:25%;
+}
+.us h3{
+	color: #F60;
+	text-align: left;
+	padding:0px;
+	margin:0px;
+}
+.tel{
+	padding: 12px 0px 0px !important;
+}
+.footer{
+	margin:0 auto;
+	margin-top:10px;
+	width:1152px;
+	height:60px;
+	margin-bottom: 20px;
+	font-size: 14px;
+	 border-bottom: 1px solid #E1E1E1;
+    border-top: 1px solid #E1E1E1;
+}
+.navr{
+    width:1152px;
+    padding-top: 20px;
+    height:39px;
+    padding-bottom:20px;
+
+}
+.navr ul li{
+	list-style: outside none none;
+	float:left;
+}
+.navr ul li a{
+	font-size:14px;
+	padding-left: 7px;
+	padding-right: 10px;
+	background: transparent url("../images/footer_nav.gif") no-repeat scroll right center;
+	color: #F60;
+}
+.footer_new{
+	width: 80%;
+	margin: 0px auto;
+	padding-bottom: 30px;
+	height:51px;
+}
+.name{
+	float: left;
+	font-size: 12px;
+	padding-top: 6px;
+	margin-right: 10%;
+}
+.beian{
+	float: left;
+    padding-top: 6px;
+}
+.share{
+	float: right;
+    font-size: 12px;
+}
+.share li{
+	float:left;
+}
+.chare{
+	clear: both;
+}
+.none{
+	background:none !important;
+}

@@ -1,0 +1,15 @@
+
+.about{padding-right:40px;font-family:"宋体";font-size:26px;width:140px;float:left;}
+.about p{font-size:20px;padding-top:5px;}
+.center{line-height:20px;font-size:12px;float:left;width:500px;}
+.center img{margin-top:30px;margin-bottom:20px;}
+
+.center h4{width:501px;background: url("../images/tips.gif")repeat-x bottom;	padding-bottom:10px;margin-bottom:10px;}
+.img{margin:0px !important;}
+.site{width:490px;height:155px;padding-bottom: 20px;}
+.touch{padding-top:10px;width:215px;height:145px;float:left;}
+.site b{font-size:14px;}
+.post{padding-top:10px;width:196px;height:145px;float:right;}
+.post p{background:url(../images/about_03.gif) no-repeat left;padding-left:20px;height:19px;}
+.post a:link,.post a:visited{color:#5ac3f8;text-decoration:none;}
+

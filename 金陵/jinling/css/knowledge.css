@@ -1,0 +1,12 @@
+.centent{background:url(../images/index_08.gif) repeat-x;width:914px;height:508px;margin:0 auto;}
+.knowledge{width:618px;height:491px;padding:19px 0 0 18px;}
+.knowledge h3{font-weight:bold;line-height:26px; color:#3366cc;  width:146px;height:26px;background:url(../images/index_09.gif) repeat-x;border-style:solid solid none;;border-width: 1px 1px medium;border-color: #cccccc;}
+.knowledge h3 span{color:#999;}
+.knowledge_new{width:618px;height:435px;border-top:1px solid #cccccc;padding-top: 5px;}
+.knowledge_new ul li{background:url(../images/f.gif) repeat-x bottom;width:549px;line-height:29px;margin-left:8px;}
+.knowledge_new ul li a{background:url(../images/index_13.gif) no-repeat left;padding-left:10px;}
+.knowledge_new ul li a span{float:right;margin-right: 10px;color:#999999;}
+.knowledge_new ul li a:link,.knowledge_new ul li a:visited{color:#666666;}
+.knowledge_new ul li a:hover,.knowledge_new ul li a:active{color:#000;text-decoration:underline;}
+.but{width:;height:52px;padding-left:130px;}
+.but ul li{float:left;padding-right:8px;}

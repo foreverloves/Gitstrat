@@ -1,0 +1,178 @@
+body,div,ul{
+	background:#fff;
+	font-family:"黑体";
+	margin:0px;
+	padding:0px;
+	font-size:12px;
+}
+div ul{
+	list-style:none;
+}
+a:link,a:visited{
+	text-decoration:none;
+}
+a:hover,a:active{
+	color:#666;
+	text-decoration:underline;
+}
+.none{
+	background-image: none !important;
+}
+.container{
+	width:100%;
+	margin:0 auto;
+}
+.header{
+	width:100%;
+	height:119px;
+}
+.box{
+	top:0px;
+	width:1150px;
+	margin:0 auto;
+}
+.logo{
+	float:left;
+	width:30%;
+}
+.nav{
+	float:right;
+	padding-top:10px;
+}
+.nav p{
+	font-size:14px;
+	text-align:right;
+	line-height:40px;
+	padding-right:20px;
+}
+.nav p a{
+	color:#23b34c;
+}
+.nav ul li a{
+		color:#000;
+}
+.nav ul li{
+	float:left;
+	background:url("../images/nav_bg.gif") no-repeat scroll right center;
+	padding-left:10px;
+	padding-right:20px;
+	font-size:14px;
+}
+.list{
+	width:100%;
+	height:41px;
+	margin:0 auto;
+	margin-bottom:20px;
+}
+.float{
+	width:1150px;
+	margin:0 auto;
+}
+.float ul{
+	float:left;
+	width:100%;
+	margin:0 auto;
+}
+.float ul li{
+	float:left;
+	width:285px;
+	height:41px;
+	background:#cbcbcb;
+	margin-left:2px;
+	text-align:center;
+}
+.float ul li a{
+	font:18px "黑体","微软雅黑","宋体";
+	font-weight:bold;
+	line-height:41px;
+	display:block;
+	color:#fff;
+	text-decoration:none;
+}
+.float ul li a:hover,.float ul li a:visited{
+	color:#fff;
+	background-color:#ffa72b; 
+}
+.about{
+	width:100%;
+	margin:0 auto;
+}
+.aboutlg{
+	height:179px;
+	width:1150px;
+	margin:0 auto;
+}
+.company{
+	width:1150px;
+	height:1320px;
+	margin:0 auto;
+}
+.first{
+	width:1090px;
+	padding-left:20px;
+}
+.first h1{
+	line-height:3em;
+	font-size:26px;
+}
+.first h1 span{
+	color:#999999;
+}
+.first p{
+	line-height:2em;
+}
+.em{
+	text-indent:2em;
+}
+.footer{
+	width:1150px;
+	margin:0 auto;
+	margin-bottom: 10px;
+	font-size: 14px;
+	 border-bottom: 1px solid #E1E1E1;
+    border-top: 1px solid #E1E1E1;
+}
+.lent{
+    width:1150px;
+    margin: 0px auto;
+    padding-top: 20px;
+    height:39px;
+
+}
+.lent ul li{
+	list-style: outside none none;
+	float:left;
+}
+.lent ul li a{
+	font-size:14px;
+	padding-left: 7px;
+	padding-right: 10px;
+	background: transparent url("../images/footer_nav.gif") no-repeat scroll right center;
+	color: #F60;
+}
+.footer_new{
+	width: 1150px;
+	margin: 0 auto;
+	padding-bottom: 30px;
+	height:51px;
+}
+.name{
+	float: left;
+	font-size: 12px;
+	padding-top: 6px;
+	margin-right: 10%;
+}
+.beian{
+	float: left;
+    padding-top: 6px;
+}
+.share{
+	float: right;
+    font-size: 12px;
+}
+.share li{
+	float:left;
+}
+.chare{
+	clear: both;
+}

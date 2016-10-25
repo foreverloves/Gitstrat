@@ -1,0 +1,12 @@
+.summary{width:700px;height:920px;float:left;}
+.summary h1{background:url(../images/tips.gif) repeat-x bottom;border-top:1px solid ;font-family:"宋体";font-size:34px;line-height:50px;}
+.summary span{font-size:20px;line-height:50px;}
+.date{width:670px;height:123px;margin:25px 5px 32px 32px;background:url(../images/tips.gif) repeat-x bottom}
+.update{width:64px;height:113px;float:left;}
+.time{width:64px;height:25px;font-size:10px;color:;padding-bottom:20px;padding-right:42px;}
+.more{width:563px;height:113px;float:right;}
+.more h3{background:url(../images/tips.gif) repeat-x bottom;font-weight:normal;color:#505050;padding-bottom:15px;}
+.more h3 img{float:right;}
+.more p{font-size:12px;color:#737373;line-height:22px;margin-top:15px;}
+.page{width:156px;height:22px;float:right;margin-top:5px;}
+.page ul li{float:left;padding-right:3px;}

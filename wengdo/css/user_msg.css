@@ -1,0 +1,240 @@
+body,div,ul{
+	background:#fff;
+	font-family:"黑体";
+	margin:0px;
+	padding:0px;
+	font-size:12px;
+}
+div ul{
+	list-style:none;
+}
+a:link,a:visited{
+	color:#666666;
+	text-decoration:none;
+}
+a:hover,a:active{
+	color:#666;
+	text-decoration:none;
+}
+.none{
+	background-image: none !important;
+}
+.container{
+	width:100%;
+	margin:0 auto;
+}
+.header{
+	width:100%;
+	height:119px;
+}
+.box{
+	top:0px;
+	width:1150px;
+	margin:0 auto;
+}
+.logo{
+	float:left;
+	width:30%;
+}
+.nav{
+	float:right;
+	padding-top:10px;
+}
+.nav p{
+	font-size:14px;
+	text-align:right;
+	line-height:40px;
+	padding-right:20px;
+}
+.nav p a{
+	color:#23b34c;
+}
+.nav ul li a{
+		color:#000;
+}
+.nav ul li{
+	float:left;
+	background:url("../images/nav_bg.gif") no-repeat scroll right center;
+	padding-left:10px;
+	padding-right:20px;
+	font-size:14px;
+}
+.ad{
+	width:1150px;
+	height:180px;
+	margin:0 auto;
+	margin-bottom: 6px;
+}
+.list{
+	width:1150px;
+	line-height:38px;
+	margin:0 auto;
+	font-size:14px;
+}
+.centent{
+	margin:0 auto;
+	width:1150px;
+	height:900px;
+	border: 1px solid #ccc;
+}
+.user{
+	width:220px;
+	height:850px;
+	float:left;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	color:#fcfcfc;
+}
+.portrait{
+	width:219px;
+	height:115px;
+	border-bottom:1px solid #ccc;
+}
+.he{
+	width:90px;
+	float:left;
+}
+.he img{
+	padding:35px 0px 28px 35px;
+}
+.us{
+	padding-top:39px;
+	color:#000;
+	font-size:14px;
+	width:110px;
+	float:right;
+}
+.set1,.set2{
+	padding:0;
+	list-style-type:none;
+	width:219px;
+	text-align:center;
+	height:46px;
+}
+.set a{
+	font-size:14px;
+	line-height:46px;
+	display:block;
+	text-decoration:none;
+}
+.set span{
+	color:#fff;
+}
+.set a:hover,.message a:hover{
+	color:#fff;
+	background-color:#00ae4f;
+}
+.message{
+		width:879px;
+		height:850px;
+		padding-left:50px;
+		float:right;
+		border-bottom:1px solid #ccc;
+}
+.message h3{
+	width:780px;
+	height:30px;
+	margin:0px;
+	margin-bottom:20px;
+	padding-top:45px;
+	border-bottom:1px solid #ccc;
+}
+.message img{
+	padding-left:10px;
+}
+.message ul li{
+	padding-top:25px;
+	color:#000000;
+	width:780px;
+	background:url(../images/line.gif) repeat-x bottom;
+}
+.message li{
+	font-size:14px;
+}
+.message span{
+	color:#ccc;
+	font-size:12px;
+}
+.message p{
+	margin:0px;
+	padding-bottom:45px;
+}
+.message p,.message span{
+	margin-left:137px;
+}
+.leaf{
+	margin-top:30px;
+	width:100%;
+	height:24px;
+}
+.page{
+	width:500px;
+	height:24px;
+	margin:0 auto;
+}
+.page ul{
+	height:24px;
+}
+.page ul li{
+	padding:0px;
+	background:none;
+	margin-right:2px;
+}
+.page img{
+	padding:0px;
+	margin-right:3px;
+	float:left;
+}
+.footer{
+	width:100%;
+	margin:0 auto;
+	float:left;
+	margin-bottom: 10px;
+	margin-top:28px;
+	font-size: 14px;
+}
+.lent{
+    width:1150px;
+    margin: 0px auto;
+    padding-top: 20px;
+    height:39px;
+	border-bottom: 1px solid #E1E1E1;
+    border-top: 1px solid #E1E1E1;
+}
+.lent ul li{
+	list-style: outside none none;
+	float:left;
+}
+.lent ul li a{
+	font-size:14px;
+	padding-left: 7px;
+	padding-right: 10px;
+	background: transparent url("../images/footer_nav.gif") no-repeat scroll right center;
+	color: #F60;
+}
+.footer_new{
+	width: 1150px;
+	margin: 0 auto;
+	padding-bottom: 30px;
+	height:51px;
+}
+.name{
+	float: left;
+	font-size: 12px;
+	padding-top: 6px;
+	margin-right: 10%;
+}
+.beian{
+	float: left;
+    padding-top: 6px;
+}
+.share{
+	float: right;
+    font-size: 12px;
+}
+.share li{
+	float:left;
+}
+.chare{
+	clear: both;
+}

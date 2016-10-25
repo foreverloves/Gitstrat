@@ -1,0 +1,8 @@
+.centent{background:url(../images/index_08.gif) repeat-x;width:914px;height:539px;margin:0 auto;}
+.contact{width:618px;height:523px;padding:19px 0 0 18px;}
+.contact h3{font-weight:bold;line-height:26px; color:#3366cc;  width:146px;height:26px;background:url(../images/index_09.gif) repeat-x;border-style:solid solid none;;border-width: 1px 1px medium;border-color: #cccccc;}
+.contact h3 span{color:#999;}
+.contact_us{border-top:1px solid #cccccc;width:619px;height:155px;padding-top: 10px;}
+.contact_us p{line-height:24px;color:#666666;font-size: 15px;}
+.map{width:619px;height:285px;border-top:1px solid #cccccc;padding-top: 8px;}
+.map img{border:1px solid #cccccc;}

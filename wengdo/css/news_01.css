@@ -1,0 +1,159 @@
+body,div,ul{
+	background:#fff;
+	font-family:"黑体";
+	margin:0px;
+	padding:0px;
+	font-size:12px;
+}
+div ul{
+	list-style:none;
+}
+a:link,a:visited{
+	color:#666666;
+	text-decoration:none;
+}
+a:hover,a:active{
+	color:#666;
+	text-decoration:none;
+}
+.none{
+	background-image: none !important;
+}
+.container{
+	width:100%;
+	margin:0 auto;
+}
+.header{
+	width:100%;
+	height:119px;
+}
+.box{
+	top:0px;
+	width:1150px;
+	margin:0 auto;
+}
+.logo{
+	float:left;
+	width:30%;
+}
+.nav{
+	float:right;
+	padding-top:10px;
+}
+.nav p{
+	font-size:14px;
+	text-align:right;
+	line-height:40px;
+	padding-right:20px;
+}
+.nav p a{
+	color:#23b34c;
+}
+.nav ul li a{
+		color:#000;
+}
+.nav ul li{
+	float:left;
+	background:url("../images/nav_bg.gif") no-repeat scroll right center;
+	padding-left:10px;
+	padding-right:20px;
+	font-size:14px;
+}
+.ad{
+	width:1150px;
+	height:180px;
+	margin:0 auto;
+	margin-bottom: 6px;
+}
+.list{
+	width:1150px;
+	line-height:38px;
+	margin:0 auto;
+	font-size:14px;
+}
+.centent{
+	width:1070px;
+	margin:0 auto;
+	padding-top:16px;
+}
+.centent h1{
+	text-align:center;
+	margin:0px;
+	font-weight:normal;
+}
+.centent span{
+	text-align:center;
+	font-size:12px;
+	display:block;
+	line-height:26px;
+}
+.centent p{
+	text-indent:2em;
+	font-size:14px;
+	line-height:26px;
+}
+.p{
+	text-indent:0px !important;
+	padding-top:16px;
+	padding-bottom:16px;
+}
+.ness{
+	width:402px;
+	margin:0 auto;
+}
+.ness img{
+	text-align:center;
+}
+.footer{
+	width:100%;
+	margin:0 auto;
+	float:left;
+	margin-bottom: 10px;
+	margin-top:28px;
+	font-size: 14px;
+}
+.lent{
+    width:1150px;
+    margin: 0px auto;
+    padding-top: 20px;
+    height:39px;
+	border-bottom: 1px solid #E1E1E1;
+    border-top: 1px solid #E1E1E1;
+}
+.lent ul li{
+	list-style: outside none none;
+	float:left;
+}
+.lent ul li a{
+	font-size:14px;
+	padding-left: 7px;
+	padding-right: 10px;
+	background: transparent url("../images/footer_nav.gif") no-repeat scroll right center;
+	color: #F60;
+}
+.footer_new{
+	width: 1150px;
+	margin: 0 auto;
+	padding-bottom: 30px;
+	height:51px;
+}
+.name{
+	float: left;
+	font-size: 12px;
+	padding-top: 6px;
+	margin-right: 10%;
+}
+.beian{
+	float: left;
+    padding-top: 6px;
+}
+.share{
+	float: right;
+    font-size: 12px;
+}
+.share li{
+	float:left;
+}
+.chare{
+	clear: both;
+}
